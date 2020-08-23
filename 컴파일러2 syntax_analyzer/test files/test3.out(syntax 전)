@@ -1,0 +1,36 @@
+vtype		int
+id		main
+lparen
+rparen
+lbrace
+vtype		int
+id		i
+semi
+for
+lparen
+id		i
+assign		=
+num		0
+semi
+id		i
+comp		<
+num		5
+semi
+id		i
+assign		=
+id		i
+addsub		+
+num		1
+rparen
+lbrace
+id		a
+assign		=
+num		120
+multdiv		/
+id		i
+semi
+rbrace
+return
+num		0
+semi
+rbrace

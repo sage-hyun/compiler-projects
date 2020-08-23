@@ -1,0 +1,28 @@
+vtype		int
+id		comp
+lparen
+vtype		int
+id		a
+comma
+vtype		int
+id		b
+rparen
+lbrace
+while
+lparen
+id		a
+comp		!=
+id		b
+rparen
+lbrace
+id		a
+assign		=
+id		b
+multdiv		*
+num		2
+semi
+rbrace
+return
+num		0
+semi
+rbrace

@@ -1,0 +1,36 @@
+vtype		bool
+id		foo
+lparen
+vtype		int
+id		a
+rparen
+lbrace
+id		a
+assign		=
+num		1
+semi
+if
+lparen
+id		a
+comp		==
+num		1
+rparen
+lbrace
+id		a
+assign		=
+num		5
+semi
+rbrace
+else
+lbrace
+id		a
+assign		=
+id		a
+addsub		-
+num		4
+semi
+rbrace
+return
+num		0
+semi
+rbrace

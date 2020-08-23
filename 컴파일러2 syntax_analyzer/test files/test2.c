@@ -1,0 +1,1 @@
+int comp(int a, int b) { while (a != b) {a = b * 2; } return 0; }

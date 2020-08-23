@@ -1,0 +1,22 @@
+VTYPE		int
+ID		interesting
+ID		if123ABC
+VTYPE		char
+ID		character
+VTYPE		bool
+VTYPE		float
+ID		ab_123
+ID		_func
+ID		func_
+LITERAL		"The lord is my shepherd Psalm 23"
+BITWISE		<<
+BITWISE		>>
+BITWISE		&
+BITWISE		|
+COMP		<
+COMP		>
+COMP		==
+ASSIGN		=
+COMP		!=
+COMP		<=
+COMP		>=
